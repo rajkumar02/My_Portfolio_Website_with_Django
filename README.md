@@ -1,6 +1,6 @@
 # MY RESUME PORTFOLIO WITH DJANGO
 ## Intro Project: 
-This website all about my Resume Portfolio and build with *__ Python Django Framework. __* 
+This website all about my Resume Portfolio and build with *Python Django Framework.* 
 Also i'm using Bootstrap UI framework for front end.
 
 ## Version:

@@ -12,6 +12,8 @@ This project has nothing much features excluded.
 Just Front End using bootstrap and html/css.
 And backend side using Django python framework to handle all the static code.
 
+* MIT license *
+
 
 > If you like this project please give it to __star__. :star:
 

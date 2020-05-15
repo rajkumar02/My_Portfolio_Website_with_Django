@@ -1,4 +1,4 @@
-# DJANGO AIRLINE SIMPLE PROJECT
+# MY RESUME PORTFOLIO WITH DJANGO
 ## Intro Project: 
 This website all about my Resume Portfolio and build with *__ Python Django Framework. __* 
 Also i'm using Bootstrap UI framework for front end.

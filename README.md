@@ -3,7 +3,7 @@
 This website all about my Resume Portfolio and build with *Python Django Framework.* 
 Also i'm using Bootstrap UI framework for front end.
 
-You can see my __Heroku__ website: <a href="https://itsrajkumar.herokuapp.com/">My Portfolio</a>
+You can see my __Heroku__ website: <a href="https://itsrajkumar.herokuapp.com/" target="_blank">My Portfolio</a>
 
 ## Version:
 - Python 3.8.2
